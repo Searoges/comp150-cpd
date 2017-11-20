@@ -6,57 +6,47 @@ This will prove to be a considerable aid when you need to identify the most impo
 
 ## Week 0
 
-Induction Week and the Robot Olympiad
 
-Weekly journal goes here. Reflect.
+Over this week there were multiple conflicts. This was mainly down to people wanting different things from the task and as such it was crucial to ensure that people were on the same page. I also need to not hold people based on this experience as it resulted in me mostly ignoring this person's suggestions.
 
 ## Week 1
 
-From Concepts to Design and Commerce, An Introduction to Python Programming and PyGame, and Computing Fundamentals
 
-Weekly journal goes here. Reflect.
+Over this week we did a team design project that in some aspects went very well but in others did not go so well. The main issue that occurred was due to a disjointed team and the overall final work was disjointed due to this. From this it is clear that communication within the team is paramount.
 
 ## Week 2
 
-Tinkering Graphics, the Agile Philosophy, and Journal Articles in Computing
 
-Weekly journal goes here. Reflect.
+During this week I did pair programming with Mango that went rather well considering that we have both done this before and are no stranger to eachothers coding styles. In addition to this we worked on user stories in our teams, this is something I definietly need to work on as it is something that I very much struggle to come up with as I would much rather just write feature 1,2,3... etc perhaps I need to look into this more.
 
 ## Week 3
 
-Starting my Tinkering Graphics Assignment, Pitching my First Game Concept, and Version Control
 
-Weekly journal goes here. Reflect.
+During this week's comp150 session we had to pitch our designs, as a result I became Product Owner for the project, one of the main things I need to focus on is shortening pitches and and a greater focus on the financial aspect. During this week we assigned Huw as Scrum master and a basic Trello board was set up,  we also decided on the random sprite generation contract for pair programming in comp 120.
+
 
 ## Week 4
 
-Met my Team for the Game Development Project! More Programming and Learning about Logic and Academic Writing
 
-Weekly journal goes here. Reflect.
+ During this week we had our first project meeting. Based on how the week and meeting went the meetings within the SCRUM process are crucial and they should be done face to face. There is a clear lack of meetings which is a problem and Huw does not seem to be interested in rectifying this..
 
 ## Week 5
 
-Peer-review finished and first assignment finished! Learned more about academic writing and complexity theory
 
-Weekly journal goes here. Reflect.
+
+The first product owner meeting went better than expected though due to a lack of engagement from the team the project is greatly behind the schedule I had anticipated. Perhaps this is an issue with how I have handled the team or the project was overly ambitious? Due to a lack of engagement I ended up completing the programming project, peer assessment and adjustments on my own which was difficult at best to deal with. In future I think I will be ensuring engagement once we start programming the software in question. There are still no meeting and I don't feel as though it matters what I say on this at this point. During the peer assessment I felt overly critical but justified in what I was saying.
 
 ## Week 6
 
-Spent the week with my team working in the studio! Made a lot of progress on the game...
-
-Weekly journal goes here. Reflect.
+This week can honestly only be defined as a disaster. The SCRUM master was gone all week due to family problems and tensions between me and my former pair programming partner resulted in a shouting match and him threatening to knock me out! Despite being the product owner I feel completely disconnected from my own project and honestly have no clue what to do with this now, people are not attending and there is almost no chance to complete the MVP.
 
 ## Week 7
 
-and so on...
-
-Weekly journal goes here. Reflect.
+Since the studio practice week tensions have been less with my former pair programming partner but the scrum master is not attending. The product meeting went better than expected as the only additions are a basic attack and the spear collisions. My new pair programming partner is the repository maintainer so I believe this project will go much better. 
 
 ## Week 8
 
-and so on...
-
-Weekly journal goes here. Reflect.
+This week had perhaps the smoothest project meeting but I have long since given up on this project now, this being said due to my own illness I was unable to attend on days off and to my knowledge the code review was not completed. The peer reviews for my agile essay and research journal went well, while I had little worthwhile feedback on the essay, the research journal had feedback that helped greatly!
 
 ## Week 9
 
